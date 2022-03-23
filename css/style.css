@@ -1,0 +1,31 @@
+
+body{
+    font: verdana;
+    font-size: 30px;
+}
+
+.navbar{
+    background-color: #884EA0;
+}
+
+.quem-somos{
+background-color: #D4AC0D;
+color: black;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: #D35400;
+}
+
+.servicos{
+    background-color: #2980B9;
+}
+
+.mifooter{
+    background-color: #E74C3C;
+}
